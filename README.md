@@ -112,3 +112,14 @@ Codex itself, your login, chats and settings are not removed.
 MIT. See [LICENSE](LICENSE).
 
 Choose **CX → Language / Язык → English**, **Русский**, or **System / Как в macOS**. Changes apply immediately and are saved. Quotas refresh every 30 seconds.
+
+
+## Real photos
+
+These photos show the app on a MacBook Pro:
+
+![Menu bar and settings](assets/menu-bar.jpg)
+
+![Compact Touch Bar indicator](assets/touchbar-compact.png)
+
+![Expanded Touch Bar gauges](assets/touchbar-expanded.png)
