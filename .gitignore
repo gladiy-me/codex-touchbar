@@ -1,0 +1,6 @@
+.DS_Store
+dist/
+*.app/
+status.json
+CodexTouchBar-status.json
+*.log
